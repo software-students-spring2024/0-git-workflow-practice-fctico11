@@ -10,3 +10,5 @@ This particular airdrop is notable in the solana ecosystem as the launch pool st
 
 ### Comments
 Please add any comments below:
+
+Joyce Xie: Impressive to see Jupiter's commitment to security and transparency in the minting process for $JUP.
